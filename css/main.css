@@ -56,3 +56,10 @@ ul.posts li {
 	background: #b62f26;
 	border-color: #b62f26;
 }
+
+.jumbotron {
+	background-image: url('https://iearn.org/assets/iearn/img/iearn_map@2x.png');
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 600px;
+	}
