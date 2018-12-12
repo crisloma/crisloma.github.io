@@ -68,3 +68,7 @@ ul.posts li {
 	background-attachment: fixed;
 	min-height: 600px;
 	}
+
+#map {
+	position: center;
+}
