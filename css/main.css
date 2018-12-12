@@ -31,6 +31,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+	
 }
 
 ul.posts { 
@@ -45,16 +46,19 @@ ul.posts li {
 .btn-twitter {
     background: #00acee;
 	border-color: #009ad5;
+	color: white;
 }
 			
 .btn-facebook {
 	background: #4868ac;
 	border-color: #314776;
+	color: white;
 }
 			
 .btn-pinterest {
 	background: #b62f26;
 	border-color: #b62f26;
+	color: white;
 }
 
 .jumbotron {
