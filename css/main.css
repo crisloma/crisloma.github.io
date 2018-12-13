@@ -153,6 +153,11 @@ ul.posts li {
 	position: center;
 }
 
+.map-item {
+	margin: 20px; 
+  	border: 5px solid #FFF;
+}
+
 .supporting-container {
 	display: flex;
 	justify-content: center;
