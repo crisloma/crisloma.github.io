@@ -142,18 +142,21 @@ ul.posts li {
     background: #00acee;
 	border-color: #009ad5;
 	color: white;
+	justify-content: center;
 }
 			
 .btn-facebook {
 	background: #4868ac;
 	border-color: #314776;
 	color: white;
+	justify-content: center;
 }
 			
 .btn-pinterest {
 	background: #b62f26;
 	border-color: #b62f26;
 	color: white;
+	justify-content: center;
 }
 
 .jumbotron {
@@ -178,6 +181,7 @@ ul.posts li {
 	justify-content: center;
 	align-items: center;
 	padding: 45px 0 0 0;
+	justify-content: center;
 }
 
 .supporting-container div {
@@ -188,24 +192,29 @@ ul.posts li {
 	justify-content: center;
 	align-items: center;
 	margin: 0 30px;
+	justify-content: center;
 }
 
 .additional {
 	background-image: url(https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg);
 	padding: 30px; 
+	justify-content: center;
 }
 
 .general {
 	background-image: url("https://images.pexels.com/photos/1454797/pexels-photo-1454797.jpeg");
 	padding: 30px; 
+	justify-content: center;
 }
 
 .contact {
 	background-image: url('https://images.pexels.com/photos/261628/pexels-photo-261628.jpeg');
 	padding: 30px; 
+	justify-content: center;
 }
 
 }
 #map {
 	height: 100%;
+	justify-content: center;
 }
