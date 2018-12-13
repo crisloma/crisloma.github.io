@@ -74,31 +74,30 @@ ul.posts li {
 }
 
 .supporting-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 45px 0 0 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 45px 0 0 0;
 }
 
 .supporting-container div {
-  background-size: cover;
-  min-width: 450px;
-  min-height: 345px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0 30px;
+	background-size: cover;
+	min-width: 450px;
+	min-height: 345px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 30px;
 }
 
 .additional information {
-  background-image: url(https://image.flaticon.com/icons/svg/321/321674.svg);
-
+	background-image: url(https://image.flaticon.com/icons/svg/321/321674.svg);
 }
 
 .general inquiries {
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e7/FAQ_icon.svg)
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e7/FAQ_icon.svg);
 }
 
 .contact us {
-background-image: url(https://ukcareguide.co.uk/media/Contact-us-icons-free-vector-1.jpg)
+	background-image: url(https://ukcareguide.co.uk/media/Contact-us-icons-free-vector-1.jpg);
 }
