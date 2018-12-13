@@ -91,13 +91,13 @@ ul.posts li {
 }
 
 .additional {
-	background-image: img("internet(2).png");
+	background-image: ("internet(2).png");
 }
 
 .general {
-	background-image: img("information.png");
+	background-image: ("information.png");
 }
 
 .contact {
-	background-image: img("location.png");
+	background-image: ("location.png");
 }
