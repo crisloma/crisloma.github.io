@@ -206,12 +206,14 @@ ul.posts li {
 	background-image: url(https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg);
 	padding: 30px; 
 	justify-content: center;
+	color: #ffffff;
 }
 
 .get {
 	background-image: url(https://images.pexels.com/photos/1162964/pexels-photo-1162964.jpeg);
 	padding: 30x;
 	justify-content:center;
+	color: #ffffff;
 }
 
 .general {
