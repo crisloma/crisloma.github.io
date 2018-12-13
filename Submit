@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href='css/bootstrap.css' rel='stylesheet'>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+	<title>Thanks!</title>
+
+</head>
