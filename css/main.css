@@ -99,5 +99,5 @@ ul.posts li {
 }
 
 .contact {
-	background-image: url(location.png);
+	background-image: url("location.png");
 }
