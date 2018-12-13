@@ -204,3 +204,8 @@ ul.posts li {
 	background-image: url('https://images.pexels.com/photos/261628/pexels-photo-261628.jpeg');
 	padding: 20px; 
 }
+
+}
+#map {
+	height: 100%;
+}
