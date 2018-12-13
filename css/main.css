@@ -12,7 +12,7 @@ nav ul {
 }
 footer ul {
     font-family:'Helvetica', 'Trebuchet MS', 'Sans-Serif';
-    padding: 20px;
+    padding: 10px;
     list-style: none;
     font-weight: bold;
 }
@@ -128,7 +128,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-	padding: 20px;
+	padding: 40px;
 	
 }
 
