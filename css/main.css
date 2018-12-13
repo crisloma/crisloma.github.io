@@ -8,6 +8,7 @@ nav ul {
     list-style: none;
     font-weight: bold;
 	
+	
 }
 footer ul {
     font-family:'Helvetica', 'Trebuchet MS', 'Sans-Serif';
@@ -17,14 +18,12 @@ footer ul {
 }
 nav ul li {
     display: inline;
-	float: right;
     margin-right: 20px;
 	
 	
 }
 footer ul li {
     display: inline;
-	float: center;
     margin-right: 20px;
 }
 a {
