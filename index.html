@@ -3,6 +3,7 @@
 <head>
 	<link href='css/bootstrap.css' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
 	<title>Mapping data protection and privacy regulation</title>
 	
 </head>
@@ -38,17 +39,19 @@
 		<iframe width="850" height="700" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-508.35937500000006%2C-45.33670190996811%2C-226.58203125%2C72.28906720017675&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=3/26.75/-7.47">View Larger Map</a></small>
 	</figure>
 		</div>
-		<div class="list-group">
+			<div class="list-group">
   		<a href="#" class="list-group-item active">Documents by country</a>
   		<a target="_blank" href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm" class="list-group-item">Argentina</a>
   		<a target="_blank" href="http://pensando.mj.gov.br/marcocivil/civil-rights-framework-for-the-internet-in-brazil/" class="list-group-item">Brazil</a>
   		<a href="#" class="list-group-item">Bolivia</a>
   		<a href="#" class="list-group-item">Colombia</a>
-		<a href="#" class="list-group-item">Chile</a>
-		<a href="#" class="list-group-item">Ecuador</a>
-		<a href="#" class="list-group-item">Uruguay</a>
-		<a href="#" class="list-group-item">Venezuela</a>
-</div>
+			<div id="seeMoreButton"> See more ... </div>
+			<div id="extendedList" style="display: none;">
+				<a href="#" class="list-group-item">Chile</a>
+				<a href="#" class="list-group-item">Ecuador</a>
+				<a href="#" class="list-group-item">Uruguay</a>
+				<a href="#" class="list-group-item">Venezuela</a>
+			</div>
 	</div>
 	</div>
 	
@@ -67,5 +70,15 @@
         	<li><a href="https://github.com/crisloma">github.com/crisloma</a></li>
 		</ul>
 	</footer>
+	<script type="text/javascript">
+
+			var seeMoreButton = document.getElementById("seeMoreButton");
+			var extendedList = document.getElementById("extendedList");
+			seeMoreButton.onclick = function () {
+				extendedList.setAttribute("style", "display: block;");
+				seeMoreButton.setAttribute("style", "display: none;");
+			}
+
+	</script>
 	
 </html>
