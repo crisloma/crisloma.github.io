@@ -208,6 +208,12 @@ ul.posts li {
 	justify-content: center;
 }
 
+.get {
+	background-image: url(https://images.pexels.com/photos/1162964/pexels-photo-1162964.jpeg);
+	padding: 30x;
+	justify-content:center;
+}
+
 .general {
 	background-image: url("https://images.pexels.com/photos/1454797/pexels-photo-1454797.jpeg");
 	padding: 30px; 
