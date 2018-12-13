@@ -168,8 +168,12 @@ ul.posts li {
 	background-position: center top;
 	background-attachment: fixed;
 	min-height: 600px;
-	}
-
+	display: flex;
+	align-items: center;
+	color: #ffffff;
+	height: 500px;
+	text-shadow: 0.25px 0.25px 0.25px #000000;
+}
 #map {
 	position: center;
 }
